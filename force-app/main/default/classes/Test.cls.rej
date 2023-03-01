@@ -1,0 +1,8 @@
+diff a/force-app/main/default/classes/Test.cls b/force-app/main/default/classes/Test.cls	(rejected hunks)
+@@ -0,0 +1,5 @@
++public with sharing class Test {
++    public Test() {
++
++    }
++}
+\ No newline at end of file
